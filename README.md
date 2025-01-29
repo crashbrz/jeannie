@@ -12,7 +12,7 @@ jeannie is a powerful tool for validating Opsgenie API keys, ensuring they are f
 ## Installation
 
 ```bash
-$ git clone https://github.com/yourusername/jeannie.git
+$ git clone https://github.com/crashbrz/jeannie.git
 $ cd jeannie
 $ go build -o jeannie main.go
 ```
